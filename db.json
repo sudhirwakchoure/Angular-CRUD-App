@@ -1,0 +1,130 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postid": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstName": " sudhir",
+      "lastName": "wakchaure",
+      "email": "sudhir@gmail.com",
+      "dob": "1996-03-28T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": " evolveware",
+      "exprience": 1,
+      "package": 3.27,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "johndoe@example.com",
+      "dob": "1985-07-15",
+      "gender": "Male",
+      "education": "Bachelor's Degree",
+      "company": "ABC Corp",
+      "exprience": 5 ,
+      "package": 21
+    },
+    {
+      "id": 3,
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "email": "janesmith@example.com",
+      "dob": "1990-04-25",
+      "gender": "Female",
+      "education": "Master's Degree",
+      "company": "XYZ Inc",
+      "exprience": 8 ,
+      "package": 40
+    },
+    {
+      "id": 4,
+      "firstName": "Michael",
+      "lastName": "Johnson",
+      "email": "michaeljohnson@example.com",
+      "dob": "1982-12-10",
+      "gender": "Male",
+      "education": "High School",
+      "company": "123 Co",
+      "exprience": 3 ,
+      "package": 12
+    },
+    {
+      "id": 5,
+      "firstName": "Emily",
+      "lastName": "Brown",
+      "email": "emilybrown@example.com",
+      "dob": "1995-09-18",
+      "gender": "Female",
+      "education": "Bachelor's Degree",
+      "company": "XYZ Inc",
+      "exprience": 6 ,
+      "package": 15
+    },
+    {
+      "id": 6,
+      "firstName": "David",
+      "lastName": "Wilson",
+      "email": "davidwilson@example.com",
+      "dob": "1988-03-22",
+      "gender": "Male",
+      "education": "Master's Degree",
+      "company": "ABC Corp",
+      "exprience": 10 ,
+      "package": 50
+    },
+    {
+      "id": 7,
+      "firstName": "Sarah",
+      "lastName": "Taylor",
+      "email": "sarahtaylor@example.com",
+      "dob": "1993-11-07",
+      "gender": "Female",
+      "education": "High School",
+      "company": "123 Co",
+      "exprience": 4 ,
+      "package": 20
+    },
+    {
+      "id": 8,
+      "firstName": "James",
+      "lastName": "Anderson",
+      "email": "jamesanderson@example.com",
+      "dob": "1980-06-30",
+      "gender": "Male",
+      "education": "Bachelor's Degree",
+      "company": "XYZ Inc",
+      "exprience": 2 ,
+      "package": 10
+    },
+    {
+      "id": 9,
+      "firstName": "Jessica",
+      "lastName": "Miller",
+      "email": "jessicamiller@example.com",
+      "dob": "1991-02-12",
+      "gender": "Female",
+      "education": "Master's Degree",
+      "company": "ABC Corp",
+      "exprience": 9 ,
+      "package": 100
+    }
+
+  ]
+}
